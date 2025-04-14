@@ -1,0 +1,8 @@
+
+Рекомендации по улучшению кода:
+- Pylint: Missing module docstring (Line 1)
+- Pylint: Missing function or method docstring (Line 1)
+- Pylint: Missing class docstring (Line 7)
+- Pylint: Missing function or method docstring (Line 10)
+- Pylint: Too few public methods (1/2) (Line 7)
+- Pylint: Unused variable 'MyClass' (Line 7)
